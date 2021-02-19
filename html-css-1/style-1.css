@@ -1,0 +1,49 @@
+header{
+    border-bottom: black;
+    border-style: double;
+    width:1910px;
+    height: 15vh;
+    background-color: lightcoral;
+}
+h2{margin-left:20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+h3{
+    margin-left: 20px;
+    display: inline-block;
+}
+
+section{
+    display: block;
+    margin-top: 10px;
+    border-style:dashed ;
+    width:1900px;
+    height:auto;
+
+}
+h4{
+    margin-left: 10px;
+}
+article{
+    margin: auto;
+    display: inline-block;
+    height: 100px;
+}
+p.clear{
+    
+display: inline-block;
+
+}
+
+.TextWrap{
+    float:left;
+    width:100px;
+    height: 100px;
+}
+
+#h6{
+    float:right;
+    height:100px;
+    width: 75px;
+}
